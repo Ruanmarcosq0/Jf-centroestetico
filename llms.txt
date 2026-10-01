@@ -1,0 +1,18 @@
+# JF Centro de Estética
+
+Site institucional da JF Centro de Estética.
+
+## Conteúdo principal
+- Estética facial
+- Estética corporal
+- Avaliação individual
+- Atendimento conduzido com foco em naturalidade, segurança e orientação clara
+- Informações sobre a doutora responsável pela clínica
+- Dúvidas frequentes sobre avaliação e tratamentos
+
+## Contato
+WhatsApp: +55 64 3650-1806
+Instagram: https://www.instagram.com/jf_centrodeestetica
+
+## Site
+https://jf-centroestetico.vercel.app/
